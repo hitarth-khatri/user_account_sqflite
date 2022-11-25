@@ -1,0 +1,1 @@
+const loginImg = 'assets/images/login_bg.png';
